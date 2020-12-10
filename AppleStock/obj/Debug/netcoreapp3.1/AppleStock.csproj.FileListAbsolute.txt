@@ -1,0 +1,13 @@
+C:\Users\Vayango\Documents\Code projects\C#\AppleStock\AppleStock\bin\Debug\netcoreapp3.1\AppleStock.exe
+C:\Users\Vayango\Documents\Code projects\C#\AppleStock\AppleStock\bin\Debug\netcoreapp3.1\AppleStock.deps.json
+C:\Users\Vayango\Documents\Code projects\C#\AppleStock\AppleStock\bin\Debug\netcoreapp3.1\AppleStock.runtimeconfig.json
+C:\Users\Vayango\Documents\Code projects\C#\AppleStock\AppleStock\bin\Debug\netcoreapp3.1\AppleStock.runtimeconfig.dev.json
+C:\Users\Vayango\Documents\Code projects\C#\AppleStock\AppleStock\bin\Debug\netcoreapp3.1\AppleStock.dll
+C:\Users\Vayango\Documents\Code projects\C#\AppleStock\AppleStock\bin\Debug\netcoreapp3.1\AppleStock.pdb
+C:\Users\Vayango\Documents\Code projects\C#\AppleStock\AppleStock\obj\Debug\netcoreapp3.1\AppleStock.csprojAssemblyReference.cache
+C:\Users\Vayango\Documents\Code projects\C#\AppleStock\AppleStock\obj\Debug\netcoreapp3.1\AppleStock.AssemblyInfoInputs.cache
+C:\Users\Vayango\Documents\Code projects\C#\AppleStock\AppleStock\obj\Debug\netcoreapp3.1\AppleStock.AssemblyInfo.cs
+C:\Users\Vayango\Documents\Code projects\C#\AppleStock\AppleStock\obj\Debug\netcoreapp3.1\AppleStock.csproj.CoreCompileInputs.cache
+C:\Users\Vayango\Documents\Code projects\C#\AppleStock\AppleStock\obj\Debug\netcoreapp3.1\AppleStock.dll
+C:\Users\Vayango\Documents\Code projects\C#\AppleStock\AppleStock\obj\Debug\netcoreapp3.1\AppleStock.pdb
+C:\Users\Vayango\Documents\Code projects\C#\AppleStock\AppleStock\obj\Debug\netcoreapp3.1\AppleStock.genruntimeconfig.cache

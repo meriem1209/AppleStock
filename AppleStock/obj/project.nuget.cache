@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9T5XHLtNl+DLRBU+AIwJPFrH76cZfGutPQPgR2sZMMC17oABaJ9At6ikOuPsfjRIPSfPqYKw4tQjmGiTKsb0vQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vayango\\Documents\\Code projects\\C#\\AppleStock\\AppleStock\\AppleStock.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vayango\\.nuget\\packages\\mysqlconnector\\1.2.0\\mysqlconnector.1.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Vayango\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Vayango\\.nuget\\packages"
+    ]
+  }
+}
