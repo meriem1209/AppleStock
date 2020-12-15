@@ -1,0 +1,18 @@
+/Users/meriem/Desktop/Cours c#/Application AppleStock/AppleStock/AppleStockUI/bin/Debug/AppleStockUI.exe.config
+/Users/meriem/Desktop/Cours c#/Application AppleStock/AppleStock/AppleStockUI/bin/Debug/AppleStockUI.exe
+/Users/meriem/Desktop/Cours c#/Application AppleStock/AppleStock/AppleStockUI/bin/Debug/AppleStockUI.pdb
+/Users/meriem/Desktop/Cours c#/Application AppleStock/AppleStock/AppleStockUI/obj/Debug/AppleStockUI.csprojAssemblyReference.cache
+/Users/meriem/Desktop/Cours c#/Application AppleStock/AppleStock/AppleStockUI/obj/Debug/AppleStockUI.Properties.Resources.resources
+/Users/meriem/Desktop/Cours c#/Application AppleStock/AppleStock/AppleStockUI/obj/Debug/AppleStockUI.csproj.GenerateResource.cache
+/Users/meriem/Desktop/Cours c#/Application AppleStock/AppleStock/AppleStockUI/obj/Debug/AppleStockUI.csproj.CoreCompileInputs.cache
+/Users/meriem/Desktop/Cours c#/Application AppleStock/AppleStock/AppleStockUI/obj/Debug/AppleStockUI.exe
+/Users/meriem/Desktop/Cours c#/Application AppleStock/AppleStock/AppleStockUI/obj/Debug/AppleStockUI.pdb
+/Users/meriem/Desktop/Cours c# 2/Application AppleStock/AppleStock/AppleStockUI/bin/Debug/AppleStockUI.exe.config
+/Users/meriem/Desktop/Cours c# 2/Application AppleStock/AppleStock/AppleStockUI/bin/Debug/AppleStockUI.exe
+/Users/meriem/Desktop/Cours c# 2/Application AppleStock/AppleStock/AppleStockUI/bin/Debug/AppleStockUI.pdb
+/Users/meriem/Desktop/Cours c# 2/Application AppleStock/AppleStock/AppleStockUI/obj/Debug/AppleStockUI.csprojAssemblyReference.cache
+/Users/meriem/Desktop/Cours c# 2/Application AppleStock/AppleStock/AppleStockUI/obj/Debug/AppleStockUI.Properties.Resources.resources
+/Users/meriem/Desktop/Cours c# 2/Application AppleStock/AppleStock/AppleStockUI/obj/Debug/AppleStockUI.csproj.GenerateResource.cache
+/Users/meriem/Desktop/Cours c# 2/Application AppleStock/AppleStock/AppleStockUI/obj/Debug/AppleStockUI.csproj.CoreCompileInputs.cache
+/Users/meriem/Desktop/Cours c# 2/Application AppleStock/AppleStock/AppleStockUI/obj/Debug/AppleStockUI.exe
+/Users/meriem/Desktop/Cours c# 2/Application AppleStock/AppleStock/AppleStockUI/obj/Debug/AppleStockUI.pdb
